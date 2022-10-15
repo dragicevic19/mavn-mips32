@@ -18,8 +18,8 @@ int main()
 {
 	try
 	{
-		std::string fileName = ".\\..\\examples\\simple.mavn";
-		std::string outFileName = ".\\..\\examples\\simple.s";
+		std::string fileName = "examples/simple.mavn";
+		std::string outFileName = "examples/simple.s";
 		bool retVal = false;
 
 		// leksicka analiza
